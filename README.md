@@ -1,0 +1,2 @@
+#Automatic transmission effect on miles per gallon
+This report investigates how automatic transmissions in cars influence their miles per gallon. Data on car fuel consumption was analysed and linear regression model to explain then data was built. Influence of automatic transmission on miles per gallon was confirmed and it is positive - cars with automatic transmission on average consume 5.3 gallons of fueal more than cars with manual transmission. 
